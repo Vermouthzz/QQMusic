@@ -1,0 +1,2 @@
+
+$buildPath = 'D:\qq-music'
